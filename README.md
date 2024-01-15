@@ -32,8 +32,7 @@ Matplotlib
 # Install Required Libraries
 
 ```bash 
-
-pip install torch torchvision numpy matplotlib pillow
+pip install torch torchvision numpy matplotlib pillow```
 
 
 ## Usage
