@@ -33,7 +33,7 @@ Matplotlib
 
 ```bash 
 
-pip install torch torchvision numpy matplotlib pillow```
+pip install torch torchvision numpy matplotlib pillow
 
 
 # Usage
