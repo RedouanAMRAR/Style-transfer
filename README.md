@@ -22,17 +22,18 @@ PIL (Python Imaging Library)
 NumPy
 Matplotlib
 
+###steps 
 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/style-transfer.git
-   cd style-transfer```
+   cd style-transfer
 
 
 # Install Required Libraries
 
 ```bash 
-pip install torch torchvision numpy matplotlib pillow```
+pip install torch torchvision numpy matplotlib pillow
 
 
 ## Usage
