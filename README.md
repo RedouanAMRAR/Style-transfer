@@ -25,12 +25,12 @@ Matplotlib
 ### Steps
 1. **Clone the Repository**
    ```bash git clone https://github.com/your-username/style-transfer.git
-cd style-transfer
+cd style-transfer```
 
 
 # Install Required Libraries
 
-```bash pip install torch torchvision numpy matplotlib pillow
+```bash pip install torch torchvision numpy matplotlib pillow```
 
 
 # Usage
@@ -42,6 +42,7 @@ cd path/to/style-transfer
 
 # 2. Run the Notebook
 jupyter notebook style_transfer.ipynb
+
 
 Follow the instructions in the notebook to input your content and style images, and observe the style transfer process.
 
