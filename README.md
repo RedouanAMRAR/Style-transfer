@@ -24,14 +24,13 @@ Matplotlib
 
 ### Steps
 1. **Clone the Repository**
-   ```bash
-git clone https://github.com/your-username/style-transfer.git
+   ```bash git clone https://github.com/your-username/style-transfer.git
 cd style-transfer
 
 
 # Install Required Libraries
 
-pip install torch torchvision numpy matplotlib pillow
+```bash pip install torch torchvision numpy matplotlib pillow
 
 
 # Usage
