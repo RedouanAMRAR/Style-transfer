@@ -36,7 +36,7 @@ Matplotlib
 pip install torch torchvision numpy matplotlib pillow
 
 
-# Usage
+## Usage
 
 To perform style transfer using this model, follow these steps:
 
@@ -50,11 +50,11 @@ jupyter notebook style_transfer.ipynb
 Follow the instructions in the notebook to input your content and style images, and observe the style transfer process.
 
 
-# Contributing
+## Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
-# License
+## License
 
 
 This project is open-source and available under the [MIT License](LICENSE).
